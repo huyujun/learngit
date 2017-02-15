@@ -1,8 +1,8 @@
-git init  git 初始化
-git add  从工作区添加到暂存区
-git commit -m "提交说明"从暂存区添加到分支
+git init  					-------git 初始化
+git add 文件夹       		------->从工作区添加到暂存区
+git commit -m "提交说明"	------->从暂存区添加到分支
 git status 查看git的状态
-git diff 
+git diff 					-------->之前修改过后，忘记了
 git pretty=oneli	
 git rm gitfile2 删除文件
 git log 查看日志
