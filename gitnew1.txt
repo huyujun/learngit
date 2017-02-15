@@ -1,0 +1,3 @@
+git is a version 10.2 status
+git is a init shi chushihuan
+commit is a git 
