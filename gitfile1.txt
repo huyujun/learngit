@@ -1,0 +1,8 @@
+my name is huyujun
+git init
+git add
+git commit
+git romver
+git status
+git rm
+git version1
