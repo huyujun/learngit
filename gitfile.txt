@@ -8,6 +8,6 @@ git rm gitfile2 删除文件
 git log 查看日志
 git diff gitfile2 
 cat gitfile2 查看文件夹里面的内容
-git 
+git checkout --gitfile 
 mkdir 文件夹.txt    创建文件夹
 ls -ah   是可以看到隐藏文件的
