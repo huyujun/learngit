@@ -1,1 +1,10 @@
 my name is huyujun
+huyujun  HUYUJUN 
+HUYUJUN 
+STATUS
+GIT DIFF
+GIT ADD
+GIT COMMIT
+GIT INIT
+git init
+
